@@ -1,3 +1,23 @@
+pt-display-port (1.1.4-4) bullseye; urgency=medium
+
+  * [pre-commit.ci] pre-commit autoupdate (#10)
+  * Updated master workflow files
+  * [pre-commit.ci] pre-commit autoupdate (#12)
+  * Add signing key and passphrase to deb_release workflow
+  * Add pull request template
+  * Update PR template to track Github issues
+  * [pre-commit.ci] pre-commit autoupdate (#13)
+  * Updated master workflow files
+  * Updated master workflow files
+  * Build for arm64
+  * Point to fork Debian package building image
+  * Point to forked Debian package building action
+  * Revert "Point to forked Debian package building action"
+  * Point to forked Debian package building action
+  * Point to forked Debian package building action arm64 branch
+
+ -- pi-top <deb-maintainers@pi-top.com>  Tue, 08 Nov 2022 13:01:44 +0000
+
 pt-display-port (1.1.4-3) bullseye; urgency=medium
 
   * Drop comment
